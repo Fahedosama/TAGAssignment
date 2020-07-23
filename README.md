@@ -23,3 +23,7 @@ Used Talal Abu-Ghazaleh website colors.
 
 Retreive date from api and format it.
 
+![Screenshot](img1.jpg)
+![Screenshot](img2.jpg)
+![Screenshot](img3.jpg)
+![Screenshot](img4.jpg)
