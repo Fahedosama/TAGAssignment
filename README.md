@@ -23,6 +23,10 @@ Used Talal Abu-Ghazaleh website colors.
 
 Retreive date from api and format it.
 
+<p align="center">
+  <img src="img1.jpg" width="350" height="300" title="hover text">
+</p>
+
 ![Screenshot](img1.jpg)
 ![Screenshot](img2.jpg)
 ![Screenshot](img3.jpg)
